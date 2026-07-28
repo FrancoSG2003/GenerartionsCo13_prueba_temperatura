@@ -18,6 +18,8 @@ function convertir() {
         resultadoFahrenheit.textContent = "";
         resultadoKelvin.textContent = "";
 
+        inputTemperatura.value = "";
+
         return;
     }
 
